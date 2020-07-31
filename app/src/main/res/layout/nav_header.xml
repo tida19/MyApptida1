@@ -19,25 +19,6 @@
     android:id="@+id/navHeader"
     android:layout_width="match_parent"
     android:layout_height="192dp"
-    android:background="@color/gameOverBackground"
+    android:background="@drawable/por24"
     android:padding="16dp"
-    android:theme="@style/ThemeOverlay.AppCompat.Dark">
-
-    <ImageView
-        android:id="@+id/navHeaderImage"
-        android:layout_width="0dp"
-        android:layout_height="0dp"
-        android:layout_marginStart="@dimen/horizontal_margin"
-        android:layout_marginTop="8dp"
-        android:layout_marginEnd="@dimen/horizontal_margin"
-        android:layout_marginBottom="24dp"
-        android:scaleType="fitCenter"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="1.0"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="1.0"
-        app:srcCompat="@drawable/nav_header" />
-
-</androidx.constraintlayout.widget.ConstraintLayout>
+    android:theme="@style/ThemeOverlay.AppCompat.Dark"/>
