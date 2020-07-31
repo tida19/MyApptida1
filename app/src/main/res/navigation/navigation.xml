@@ -8,7 +8,7 @@
     <fragment
         android:id="@+id/titleFragment"
         android:name="com.example.android.navigation.TitleFragment"
-        android:label="First_App"
+        android:label="First_App_TIDA"
         tools:layout="@layout/fragment_title" />
     <fragment
         android:id="@+id/aboutFragment"
