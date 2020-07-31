@@ -25,21 +25,21 @@
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@drawable/por10">
+        android:background="@drawable/por14">
 
         <TextView
             android:id="@+id/rulesText"
-            android:layout_width="318dp"
-            android:layout_height="313dp"
+            android:layout_width="307dp"
+            android:layout_height="613dp"
             android:layout_marginStart="@dimen/horizontal_margin"
             android:layout_marginEnd="@dimen/horizontal_margin"
-            android:fontFamily="sans-serif-smallcaps"
+            android:fontFamily="casual"
             android:text="@string/rules_text"
             android:textAppearance="@style/TextAppearance.AppCompat.Large"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.493"
             app:layout_constraintStart_toStartOf="parent"
             tools:fontFamily="casual"
-            tools:layout_editor_absoluteY="125dp" />
+            tools:layout_editor_absoluteY="41dp" />
+
     </androidx.constraintlayout.widget.ConstraintLayout>
 </ScrollView>
