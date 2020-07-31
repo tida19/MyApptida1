@@ -4,11 +4,11 @@
     <item
         android:id="@+id/rulesFragment"
 
-        android:icon="@drawable/por26"
+        android:icon="@drawable/android"
         android:title="CONTACT" />
     <item
         android:id="@+id/aboutFragment"
 
-        android:icon="@drawable/por25"
+        android:icon="@drawable/android"
         android:title="PROFILE" />
 </menu>
