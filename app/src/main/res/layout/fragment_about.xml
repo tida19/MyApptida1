@@ -25,7 +25,7 @@
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@drawable/por5">
+        android:background="@drawable/por6">
 
         <ImageView
             android:id="@+id/aboutImage"
