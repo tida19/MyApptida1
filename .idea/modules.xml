@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/3.2-Define-navigation-paths.iml" filepath="$PROJECT_DIR$/.idea/modules/3.2-Define-navigation-paths.iml" group="3.2-Define-navigation-paths" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="3.2-Define-navigation-paths/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/3.3-Start-an-external-activity.iml" filepath="$PROJECT_DIR$/.idea/modules/3.3-Start-an-external-activity.iml" group="3.3-Start-an-external-activity" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="3.3-Start-an-external-activity/app" />
     </modules>
   </component>
 </project>
